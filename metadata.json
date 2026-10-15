@@ -1,0 +1,6 @@
+{
+  "name": "SmartCard Desk - Multilingual Card Scanner & Visitor Entry",
+  "description": "Fast AI card scanner supporting English, Hindi, Gujarati, Marathi, Bengali, and regional languages with side-by-side manual editing and rapid visitor entry.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
